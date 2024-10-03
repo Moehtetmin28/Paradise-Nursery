@@ -1,0 +1,18 @@
+/* styles/ShoppingCartPage.css */
+.shopping-cart {
+  padding: 20px;
+}
+
+.shopping-cart h2 {
+  margin-bottom: 20px;
+}
+
+.shopping-cart button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #4CAF50; /* Green */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

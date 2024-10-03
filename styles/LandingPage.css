@@ -1,0 +1,17 @@
+/* styles/LandingPage.css */
+.landing {
+  background-image: url('../path_to_background_image.jpg'); /* Add your background image path */
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+.get-started-button {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
